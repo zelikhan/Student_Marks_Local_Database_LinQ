@@ -1,0 +1,21 @@
+C:\Users\AU_Student\Documents\LAB\LAB 8\Question 2\Studentinfo\Studentinfo\bin\Debug\Studentinfo.exe.config
+C:\Users\AU_Student\Documents\LAB\LAB 8\Question 2\Studentinfo\Studentinfo\bin\Debug\Studentinfo.exe
+C:\Users\AU_Student\Documents\LAB\LAB 8\Question 2\Studentinfo\Studentinfo\bin\Debug\Studentinfo.pdb
+C:\Users\AU_Student\Documents\LAB\LAB 8\Question 2\Studentinfo\Studentinfo\obj\Debug\Studentinfo.csproj.AssemblyReference.cache
+C:\Users\AU_Student\Documents\LAB\LAB 8\Question 2\Studentinfo\Studentinfo\obj\Debug\Studentinfo.Form1.resources
+C:\Users\AU_Student\Documents\LAB\LAB 8\Question 2\Studentinfo\Studentinfo\obj\Debug\Studentinfo.Properties.Resources.resources
+C:\Users\AU_Student\Documents\LAB\LAB 8\Question 2\Studentinfo\Studentinfo\obj\Debug\Studentinfo.csproj.GenerateResource.cache
+C:\Users\AU_Student\Documents\LAB\LAB 8\Question 2\Studentinfo\Studentinfo\obj\Debug\Studentinfo.csproj.CoreCompileInputs.cache
+C:\Users\AU_Student\Documents\LAB\LAB 8\Question 2\Studentinfo\Studentinfo\obj\Debug\Studentinfo.exe
+C:\Users\AU_Student\Documents\LAB\LAB 8\Question 2\Studentinfo\Studentinfo\obj\Debug\Studentinfo.pdb
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 8\Question 2\Studentinfo\Studentinfo\bin\Debug\Studentinfo.exe.config
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 8\Question 2\Studentinfo\Studentinfo\bin\Debug\Studentinfo.exe
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 8\Question 2\Studentinfo\Studentinfo\bin\Debug\Studentinfo.pdb
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 8\Question 2\Studentinfo\Studentinfo\obj\Debug\Studentinfo.csproj.AssemblyReference.cache
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 8\Question 2\Studentinfo\Studentinfo\obj\Debug\Studentinfo.csproj.SuggestedBindingRedirects.cache
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 8\Question 2\Studentinfo\Studentinfo\obj\Debug\Studentinfo.Form1.resources
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 8\Question 2\Studentinfo\Studentinfo\obj\Debug\Studentinfo.Properties.Resources.resources
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 8\Question 2\Studentinfo\Studentinfo\obj\Debug\Studentinfo.csproj.GenerateResource.cache
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 8\Question 2\Studentinfo\Studentinfo\obj\Debug\Studentinfo.csproj.CoreCompileInputs.cache
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 8\Question 2\Studentinfo\Studentinfo\obj\Debug\Studentinfo.exe
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 8\Question 2\Studentinfo\Studentinfo\obj\Debug\Studentinfo.pdb
